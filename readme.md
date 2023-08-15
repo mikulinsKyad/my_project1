@@ -29,7 +29,9 @@ def simple_function(a, b):
 	return a + b 
 	
 print(simple_function(2, 3))```  
+Возможно, следует что-то добавить.
 
 
 # Заключение  
+---
 Спасибо за прочтение!
